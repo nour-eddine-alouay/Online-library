@@ -19,4 +19,4 @@ This page allows the user to communicate with the library either to express thei
 ## About
 ![](images/about.jpeg)
 ## Installation
-You import library.sql on your php my admin, i use wamp server
+You should import library.sql on your php my admin, i use wamp server
